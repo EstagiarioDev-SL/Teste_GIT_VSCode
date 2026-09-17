@@ -12,3 +12,4 @@ print("Testando sincronização no GitHub")
 print(quadrado(a))
 
 
+print (cubo(a))
