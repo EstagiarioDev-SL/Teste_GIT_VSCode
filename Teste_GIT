@@ -8,7 +8,12 @@ if(a > 0){
 
 print("Testando sincronização no GitHub")
 
+def quadrado(a):
+    return a * a  
 
+def cubo(a):
+    return a * a * a
+    
 print(quadrado(a))
 
 
