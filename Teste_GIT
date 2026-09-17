@@ -1,2 +1,9 @@
-def quadrado(a):
-    return a * a
+print("Teste")
+
+a = 10
+
+if(a > 0){
+    print("A é positivo")
+}
+
+print("Testando sincronização no GitHub")
