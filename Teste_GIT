@@ -1,4 +1,17 @@
-def quadrado(a):
-    return a * a
+print("Teste")
 
-print("alterando a funcao para fazer o merge")
+a = 10
+
+if(a > 0){
+    print("A é positivo")
+}
+
+print("Testando sincronização no GitHub")
+
+
+def cubo(a):
+    return a * a * a
+
+
+
+print (cubo(a))
