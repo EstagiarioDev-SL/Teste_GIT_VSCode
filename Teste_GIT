@@ -1,2 +1,4 @@
 def quadrado(a):
     return a * a
+
+print("alterando a funcao para fazer o merge")
